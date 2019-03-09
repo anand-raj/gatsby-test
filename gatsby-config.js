@@ -1,8 +1,8 @@
 module.exports = {
-    pathPrefix: "/gatsby-starter",
+    pathPrefix: "/gatsby-test",
 
     siteMetadata: {
-        title: 'Gatsby blog',
+        title: 'Gatsby test',
     },
     
     plugins: [
